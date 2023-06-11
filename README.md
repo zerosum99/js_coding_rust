@@ -17,3 +17,23 @@
 ### 장소 : 정석코딩 학원. 423호 - 서울시 종로구 종로 서울YMCA빌딩(1호선 종각역 8번 출구)
 
 # 정석코딩 : js_coding_rust
+
+
+## 러스트 설치 
+
+###  윈도우즈
+
+- 러스트 설치 : https://learn.microsoft.com/ko-kr/windows/dev-environment/rust/setup
+- 개발툴 : vscode 는 윈도우즈 설치 참조 
+
+### 리눅스와 맥 
+- 러스트 설치 : https://www.rust-lang.org/tools/install
+- 개발툴 : 인텔리제이 https://hyesun03.github.io/2017/03/19/rust_intellij/
+
+
+### 러스트를 인터프리터로 처리
+- 개발툴 : 아나콘다 설치  https://benn.tistory.com/26 
+- 개발툴 : 주피터설치 https://pipln.medium.com/rust-%EB%A5%BC-jupyter-notebook-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-cd939324e23f
+
+
+  
